@@ -1041,16 +1041,16 @@ const G_DATA = [
   },
   { 
     id: '990', 
-    n: "inZOI", 
-    dev: "KRAFTON Inc.", 
-    url: "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=990&name=inZOI", 
-    img: "https://m.media-amazon.com/images/M/MV5BMzI1M2ZjOGUtNGY0OC00ZTgxLTliZmYtMDllZjY0M2MzMjE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-    bg: "https://images6.alphacoders.com/139/1394916.png", 
+    n: "Batman: Arkham Origins", 
+    dev: "WB Games Montréal.", 
+    url: "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=111&name=Batman%3AArkhamOrigins", 
+    img: "https://rukminim2.flixcart.com/image/1536/1536/k4lmv0w0/poster/f/c/h/large-batman-arkham-origins-arkham-bats-maxi-origins-jumbo-large-original-imafnfzmyhhxaec2.jpeg?q=90", 
+    bg: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/header.jpg?t=1746562474", 
     ach: 0, 
-    tags: ["Simulation", "Life Sim", "Sandbox", "Realistic"],
-    desc: "A breathtaking life simulation game where you become the master of your own world, creating unique stories and directing every aspect of life.",
-    rm: { os: "Windows 10", cpu: "Intel Core i5-10400", ram: "12 GB RAM", gpu: "RTX 2060" },
-    rr: { os: "Windows 11", cpu: "Intel Core i7-12700", ram: "16 GB RAM", gpu: "RTX 3070" }
+    tags: ["Action", "Open World", "Superhero", "Adventure"],
+    desc: "Step into the cape and cowl of Batman in a gritty open-world Gotham City. Face deadly assassins, uncover a criminal conspiracy, and experience the early years of the Dark Knight's career.",
+    rm: { os: "Windows Vista SP2 64-bit", cpu: "Intel Core 2 Duo E4600 / AMD Athlon 64 X2 4800+", ram: "2 GB RAM", gpu: "NVIDIA GeForce 8800 GTS / AMD Radeon HD 3850" },
+    rr: { os: "Windows 7/8/10 64-bit", cpu: "Intel Core i5-750 / AMD Phenom II X4 965", ram: "4 GB RAM", gpu: "NVIDIA GeForce GTX 560 / AMD Radeon HD 6950" }
   },
   { 
     id: '989', 
