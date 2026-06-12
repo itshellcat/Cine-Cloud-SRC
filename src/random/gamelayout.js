@@ -1053,6 +1053,19 @@ const G_DATA = [
     rr: { os: "Windows 7/8/10 64-bit", cpu: "Intel Core i5-750 / AMD Phenom II X4 965", ram: "4 GB RAM", gpu: "NVIDIA GeForce GTX 560 / AMD Radeon HD 6950" }
   },
   { 
+      id: '109', 
+    n: "Batman: Arkham Knight", 
+    dev: "Rocksteady Studios", 
+    url: "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=109&name=Batman%20Arkham%20Knight", 
+    img: "https://assetsio.gnwcdn.com/coagib.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp", 
+    bg: "https://gaming-cdn.com/images/products/16210/orig/batman-arkham-knight-playstation-4-playstation-store-cover.jpg?v=1776863534", 
+    ach: 25, 
+    tags: ["Action", "Open World", "Superhero", "Stealth", "Adventure"],
+    desc: "Become the Dark Knight in the explosive finale of the Arkham series. Glide across Gotham City, master brutal free-flow combat, use advanced gadgets, and face the mysterious Arkham Knight as Batman's greatest allies and enemies collide in one unforgettable night.",
+    rm: { os: "Windows 10 64-bit", cpu: "Intel Core i5-750", ram: "6 GB RAM", gpu: "NVIDIA GeForce GTX 660 },
+    rr: { os: "Windows 10/11 64-bit", cpu: "Intel Core i7-3770", ram: "8 GB RAM", gpu: "NVIDIA GeForce GTX 760" }  
+  },
+  { 
     id: '989', 
     n: "AI LIMIT", 
     dev: "SenseGames", 
